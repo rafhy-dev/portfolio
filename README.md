@@ -10,3 +10,8 @@ I am learning software engineering step by step.
 
 ## Contact
 - GitHub: [rafhy-dev](https://github.com/rafhy-dev)
+
+## Skills
+- Git & GitHub basics
+- Markdown formatting
+
