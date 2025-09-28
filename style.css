@@ -338,12 +338,7 @@ nav a{
         flex-wrap: wrap;
     }
 
-    .sidebar{
-        display: flex;
-        justify-content: center;
-        gap: 40px;
-       
-    }
+    
 
     
 }
